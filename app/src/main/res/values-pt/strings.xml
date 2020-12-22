@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple File Manager</string>
+    <string name="app_launcher_name">Gestor de ficheiros</string>
+    <string name="press_back_again">Prima novamente para sair</string>
+    <string name="go_to_home_folder">Ir para a pasta pessoal</string>
+    <string name="set_as_home_folder">Definir como pasta pessoal</string>
+    <string name="home_folder_updated">Pasta pessoal atualizada</string>
+    <string name="copy_path">Copiar caminho para a área de transferência</string>
+    <string name="path_copied">Caminho copiado</string>
+    <string name="select_audio_file">Selecione um ficheiro de áudio</string>
+    <string name="search_folder">Pesquisar pasta</string>
+    <string name="rooted_device_only">Esta operação apenas funciona em dispositivos com root</string>
+
+    <!-- Open as -->
+    <string name="open_as">Abrir como</string>
+    <string name="text_file">Texto</string>
+    <string name="image_file">Imagem</string>
+    <string name="audio_file">Áudio</string>
+    <string name="video_file">Vídeo</string>
+    <string name="other_file">Outro tipo</string>
+
+    <!-- Compression -->
+    <string name="compress">Comprimir</string>
+    <string name="decompress">Descomprimir</string>
+    <string name="compress_as">Comprimir como</string>
+    <string name="compressing">A comprimir…</string>
+    <string name="decompressing">A descomprimir…</string>
+    <string name="compression_successful">Compressão terminada</string>
+    <string name="decompression_successful">Descompressão terminada</string>
+    <string name="compressing_failed">Falha ao comprimir</string>
+    <string name="decompressing_failed">Falha ao descomprimir</string>
+
+    <!-- Favorites -->
+    <string name="manage_favorites">Gerir favoritos</string>
+    <string name="go_to_favorite">Ir para favorito</string>
+    <string name="favorites_activity_placeholder">Pode adicionar pastas como favoritos para um acesso mais rápido.</string>
+
+    <!-- File Editor -->
+    <string name="file_editor">Editor de ficheiros</string>
+
+    <!-- Settings -->
+    <string name="enable_root_access">Ativar acesso root</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Simple File Manager Pro - Manage files easy &amp; fast</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Easy app for managing your files without ads, respecting your privacy &amp; security</string>
+    <string name="app_long_description">
+        A lightweight quick file manager for everyday use. It offers a userful search functionality, you can also customize the home folder and select favorite folders for quick access.
+
+        The app contains multiple powerful security related functions, like password protecting hidden items, deleting files, or the whole app. You can choose between using a pattern, pin, or a fingerprint to keep your data private.
+
+        This modern file organizer supports fast browsing of root files, SD cards and USB devices.
+
+        To keep your productive, it obviously has all the standard file operations like rename, copy, move, delete, share etc. It can also be used for saving up some storage, since it allows compressing and decompressing too. You can easily create new files or folders if you wish so.
+
+        You can obviously select sorting by multiple different values, toggle between ascending and descending, or use a folder specific sorting.
+
+        By just a few clicks you can also check file or folder properties, which shows various fields like the file size, date of the last modification, or EXIF values like the creation date, camera model at photos etc.
+
+        To get a file or folders path quickly, you can easily select it by long pressing and copying it in the clipboard.
+
+        You can create handy desktop shortcuts for accessing your favorite items quickly.
+
+        It contains a light file editor that you can use either for printing documents, editing them, or read easily with using zoom gestures, whenever needed.
+
+        It comes with material design and dark theme by default, provides great user experience for easy usage. The lack of internet access gives you more privacy, security and stability than other apps.
+
+        Não contém anúncios nem permissões desnecessárias. Disponibiliza um tema escuro e é totalmente \'open source\'.
+
+        <b>Check out the full suite of Simple Tools here:</b>
+        https://www.simplemobiletools.com
+
+        <b>Standalone website of Simple File Manager Pro:</b>
+        https://www.simplemobiletools.com/filemanager
+
+        <b>Facebook:</b>
+        https://www.facebook.com/simplemobiletools
+
+        <b>Reddit:</b>
+        https://www.reddit.com/r/SimpleMobileTools
+    </string>
+
+    <!--
+        Não encontrou todas as cadeias a traduzir? Existem mais algumas em
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
